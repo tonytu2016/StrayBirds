@@ -1,4 +1,4 @@
-
+he
 
 
 ######################### theme kunka condigure ##############################################
@@ -123,7 +123,7 @@ highlighter: pygments
 title: 飞鸟集
 description: 人生到处知何似，应似飞鸿踏雪泥
 #theme: slate
-remote_theme: hydecorp/hydejack
+#remote_theme: hydecorp/hydejack
 disqusname: minixalpha
 
 # theme can be: hack, leap-day, merlot, midnight, minimal, modernist, slate, time-machine, kunka
